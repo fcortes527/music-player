@@ -1,5 +1,5 @@
 # music-player
-Verilog HDL project that reads frequency data from a ROM and outputs audio and visual data through mini HDMI display
+Verilog HDL project that reads frequency data from a ROM and outputs audio and visual data through a VGA display
 
 [Project Report](https://github.com/fcortes527/music-player/blob/main/Final%20Report%20Music%20Player.pdf)
 
